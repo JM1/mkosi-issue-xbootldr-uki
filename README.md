@@ -116,3 +116,5 @@ XBOOTLDR will contain the following:
 ```
 
 Afterwards, the image can be booted with `mkosi qemu`.
+
+This issue is tracked in [mkosi issue #2738](https://github.com/systemd/mkosi/issues/2738).
